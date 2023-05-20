@@ -35,4 +35,4 @@ RapidHTTP 由 [wiw](https://wolan.me) 开发和维护。
 
 ## 链接
 
-- GitHub 代码库：[https://github.com/RapidHTTP/main/](https://github.com/RapidHTTP/main/))
+- GitHub 代码库：[https://github.com/RapidHTTP/main/](https://github.com/RapidHTTP/main/)
